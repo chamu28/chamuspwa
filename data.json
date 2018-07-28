@@ -1,0 +1,49 @@
+{"details":{
+  "image":"profile.png",
+  "name":"chamu",
+  "phoneno":"+91-9999999999",
+  "email":"chamupuvvada1113@gmail.com",
+  "Address":"NH 9, Hyderabad Road, Kanchikacherla, Andhra Pradesh 521180 DVR & Dr. HS MIC College of Technology, Address"
+},
+"career":{
+  "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth"
+},
+"education":[{
+  "qualification":"B.Tech",
+  "institute":"MIC College",
+  "year":"2016-2020",
+  "percentage":"95%"
+  },
+{
+  "qualification":"Intermediate",
+  "institute":"Narayana junior college",
+  "year":"2014-2016",
+  "percentage":"95%"
+  },
+{
+  "qualification":"SSC",
+  "institute":"Flora EM High School",
+  "year":"2004-2014",
+  "percentage":"95%"
+  }
+],
+"skills":[{
+  "title":"Programming Languages",
+  "info":["c,c++,python,r,java"]
+
+},
+{
+  "title":"Databases",
+  "info":["oracle,sql,mysql,tinydb"]
+},
+{
+"title":"Operating Systems",
+"info":["windows,linux,ubuntu,dos"]
+
+}
+],
+"achievements":{
+  "title":"Acievements:",
+  "info":["Awarded with Best student Award,Score the highest percentile for that year, Best in conducting projects, seminars, workshops etc"]
+}
+}
